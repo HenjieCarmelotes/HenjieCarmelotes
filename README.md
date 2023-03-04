@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different open source programming language
 - 📫 How to reach me henjiecarmelotes@gmail.com
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenjieCarmelotes&hide=contribs,prs)
 
 <!---
 HenjieCarmelotes/HenjieCarmelotes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
